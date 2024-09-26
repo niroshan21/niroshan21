@@ -16,4 +16,4 @@ Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering un
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/nirorajitha)
-- [Facebook]([link-to-twitter](https://www.facebook.com/profile.php?id=100008446302319&mibextid=LQQJ4d))
+- [Facebook](https://www.facebook.com/profile.php?id=100008446302319&mibextid=LQQJ4d)
