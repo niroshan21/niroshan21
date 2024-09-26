@@ -1,16 +1,19 @@
-## Hi there 👋
+# Rajitha Niroshan
 
-<!--
-**niroshan21/niroshan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering undergraduate from the University of Moratuwa. I have a strong passion for machine learning, deep learning, and image processing.
 
-Here are some ideas to get you started:
+## Skills
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Electronics Design
+- Telecommunication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Animal re-identification system
+- Vision-based Bin Picking Robot
+- Very Low Frequency (VLF) Metal Detector
+
+## Get in Touch
+- [LinkedIn](www.linkedin.com/in/nirorajitha)
+- [Facebook]([link-to-twitter](https://www.facebook.com/profile.php?id=100008446302319&mibextid=LQQJ4d))
