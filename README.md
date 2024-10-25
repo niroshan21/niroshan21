@@ -12,14 +12,14 @@ Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering un
 - Embedded Systems
 
 ## Projects
-- Animal Re-identification System (Computer Vision) - []()
+- Animal Re-identification System (Computer Vision) - [Ongoing](https://github.com/niroshan21/Animal-Re-identification-System)
 - Vision-based Bin Picking System (Unet) -  [GIT](https://github.com/niroshan21/Vision-based-Bin-Picking-System)
 - Very Low Frequency (VLF) Metal Detector -  [GIT](https://github.com/niroshan21/Metal-Detector)
 - Medibox (Embedded Systems)  - [GIT](https://github.com/niroshan21/Medibox)
-- Hospital Management System (SQL) - []()
-- Line Following Robot - []()
+- Hospital Management System (SQL)  []()
+- Line Following Robot  []()
 - Deep Learning Projects - [GIT](https://github.com/niroshan21/Deep-Learning)
-- Free Space Detector -  []()
+- Free Space Detector   []()
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/nirorajitha)
