@@ -6,13 +6,20 @@ Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering un
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- Data Engineering
 - Electronics Design
 - Telecommunication
+- Embedded Systems
 
 ## Projects
-- Animal re-identification system
-- Vision-based Bin Picking Robot
-- Very Low Frequency (VLF) Metal Detector - [Link](https://github.com/niroshan21/Metal-Detector)
+- Animal Re-identification System (Computer Vision) 
+- Vision-based Bin Picking System (Unet) 
+- Very Low Frequency (VLF) Metal Detector - [GIT](https://github.com/niroshan21/Metal-Detector)
+- Medibox (Embedded Systems)
+- Hospital Management System (SQL) - [uploading]()
+- Line Following Robot
+- Deep Learning Projects - [uploading]()
+- Free Space Detector 
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/nirorajitha)
