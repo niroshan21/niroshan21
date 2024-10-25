@@ -6,7 +6,7 @@ Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering un
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Data Engineering
+- Data Science
 - Electronics Design
 - Telecommunication
 - Embedded Systems
