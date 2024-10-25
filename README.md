@@ -1,6 +1,6 @@
 # Rajitha Niroshan
 
-Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering undergraduate from the University of Moratuwa. I have a strong passion for machine learning, deep learning, and image processing.
+Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering undergraduate from the University of Moratuwa. I have a strong passion for machine learning, deep learning, image processing and data science.
 
 ## Skills
 - Machine Learning
