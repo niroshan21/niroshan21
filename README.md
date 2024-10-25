@@ -18,7 +18,7 @@ Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering un
 - Medibox (Embedded Systems)   []()
 - Hospital Management System (SQL) - []()
 - Line Following Robot   []()
-- Deep Learning Projects - []()
+- Deep Learning Projects - [GIT](https://github.com/niroshan21/Deep-Learning)
 - Free Space Detector   []()
 
 ## Get in Touch
