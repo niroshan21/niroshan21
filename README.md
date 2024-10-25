@@ -12,7 +12,7 @@ Hello! I'm Rajitha Niroshan, an Electronics and Telecommunication Engineering un
 ## Projects
 - Animal re-identification system
 - Vision-based Bin Picking Robot
-- Very Low Frequency (VLF) Metal Detector
+- Very Low Frequency (VLF) Metal Detector - [Link](https://github.com/niroshan21/Metal-Detector)
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/nirorajitha)
